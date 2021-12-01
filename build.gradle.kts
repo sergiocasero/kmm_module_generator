@@ -109,7 +109,7 @@ open class KmmModuleGeneratorPlugin : Plugin<Project> {
 }
 
 pluginBundle {
-    website = "<substitute your project website>"
-    vcsUrl = "<uri to project source repository>"
+    website = "https://github.com/sergiocasero/kmm_module_generator"
+    vcsUrl = "https://github.com/sergiocasero/kmm_module_generator"
     tags = listOf("kotlin", "multiplatform", "module generator", "kotlin module generator")
 }
